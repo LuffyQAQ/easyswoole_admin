@@ -9,3 +9,5 @@ EasySwoole3.x + layuiAdmin  前后端分离的后台权限管理系统
 
 
 ### 由于layuiAdmin 是不开源的软件，所以没法给大家开放源代码
+
+如果有想学习的同学，可以在 easyswoole 1群和easyswoole 2群 搜索 北溟有鱼QAQ 找到我 或者是在我的博客 https://umdzz.cn 下面留言来联系我，获取项目的源码学习，但是源码并非开源，不可用于商业用途
