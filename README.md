@@ -8,4 +8,4 @@ EasySwoole3.x + layuiAdmin  前后端分离的后台权限管理系统
 3. 利用layuiAdmin 后台模板实现前后端分离功能 
 
 
-# 由于layuiAdmin 是不开源的软件，所以没法给大家开放源代码
+### 由于layuiAdmin 是不开源的软件，所以没法给大家开放源代码
