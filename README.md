@@ -10,6 +10,7 @@ EasySwoole3.x + layuiAdmin  前后端分离的后台权限管理系统
 
 ### 由于layuiAdmin 是不开源的软件，所以没法给大家开放源代码
 
+### 效果图地址： https://www.umdzz.cn/article/22/realize-the-background-rights-management-system-with-easyswoole-and-layuiadmin
 
 # 作者
 - 北溟有鱼QAQ  qq：1769360227
